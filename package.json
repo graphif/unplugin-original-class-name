@@ -1,7 +1,7 @@
 {
   "name": "unplugin-original-class-name",
   "description": "Add original class names to the dist code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "license": "MIT",
   "keywords": [
