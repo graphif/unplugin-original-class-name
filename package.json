@@ -12,7 +12,8 @@
     "url": "https://github.com/graphif/unplugin-original-class-name"
   },
   "files": [
-    "dist"
+    "dist",
+    "client.d.ts"
   ],
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -29,7 +30,7 @@
     "./vite": "./dist/vite.js",
     "./webpack": "./dist/webpack.js",
     "./package.json": "./package.json",
-    "./client": "./dist/client.d.ts"
+    "./client": "./client.d.ts"
   },
   "scripts": {
     "build": "tsdown",

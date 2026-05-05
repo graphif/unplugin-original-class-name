@@ -1,5 +1,3 @@
-export {};
-
 declare module "virtual:original-class-name" {
   export function getOriginalNameOf(
     // eslint-disable-next-line @typescript-eslint/no-unsafe-function-type
